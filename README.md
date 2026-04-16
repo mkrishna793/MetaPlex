@@ -184,6 +184,20 @@ Read the complete technical paper with all 7 discoveries explained in detail:
 
 ---
 
+## Part I: The Mechanics of Intelligence
+
+MetaPlex is **Part II** of the NeuroCartography Research Series. Part I studied 6 different models (7B-35B parameters) and discovered the foundational laws:
+
+**[The Mechanics of Intelligence](https://github.com/mkrishna793/The-Mechanics-of-Intelligence)** -- WeightScript framework, Polysemantic Binding, cDoS vulnerability class, and the Four Laws of Neural Architecture.
+
+| Aspect | Part I (Mechanics) | Part II (MetaPlex) |
+|---|---|---|
+| **Focus** | Cross-model comparison (6 models) | Single-model deep dive (Gemma-4-E4B) |
+| **Scale** | 1 layer per model, 2000 nodes | All 42 layers, 430,080 neurons |
+| **Key Discovery** | Polysemantic Binding + cDoS | Hub Handoff Chains + Safety Entanglement |
+
+---
+
 ## Citation
 
 ```bibtex
