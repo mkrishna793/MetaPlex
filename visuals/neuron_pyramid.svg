@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" font-family="Inter,system-ui,sans-serif">
+<rect width="600" height="380" fill="#0d1117" rx="12"/>
+<text x="300" y="30" fill="#e6edf3" font-size="16" font-weight="700" text-anchor="middle">The Sparse Elite Pyramid — 430,080 Neurons</text>
+<rect x="220.0" y="60" width="160" height="70" rx="8" fill="#f85149" fill-opacity="0.2" stroke="#f85149" stroke-width="2"/>
+<text x="300.0" y="85" fill="#f85149" font-size="14" font-weight="700" text-anchor="middle">L3 Hub/Goal</text>
+<text x="300.0" y="105" fill="#e6edf3" font-size="12" text-anchor="middle">~12,900 neurons (~3%)</text>
+<text x="300.0" y="120" fill="#e6edf3" font-size="10" text-anchor="middle" opacity="0.5">Cross-domain integrators</text>
+<rect x="140.0" y="145" width="320" height="70" rx="8" fill="#d29922" fill-opacity="0.2" stroke="#d29922" stroke-width="2"/>
+<text x="300.0" y="170" fill="#d29922" font-size="14" font-weight="700" text-anchor="middle">L2 Specialist</text>
+<text x="300.0" y="190" fill="#e6edf3" font-size="12" text-anchor="middle">~51,600 neurons (~12%)</text>
+<text x="300.0" y="205" fill="#e6edf3" font-size="10" text-anchor="middle" opacity="0.5">Domain experts</text>
+<rect x="50.0" y="230" width="500" height="70" rx="8" fill="#58a6ff" fill-opacity="0.2" stroke="#58a6ff" stroke-width="2"/>
+<text x="300.0" y="255" fill="#58a6ff" font-size="14" font-weight="700" text-anchor="middle">L1 Foundation</text>
+<text x="300.0" y="275" fill="#e6edf3" font-size="12" text-anchor="middle">~365,568 neurons (~85%)</text>
+<text x="300.0" y="290" fill="#e6edf3" font-size="10" text-anchor="middle" opacity="0.5">General-purpose backbone</text>
+<text x="300.0" y="360" fill="#e6edf3" font-size="11" text-anchor="middle" opacity="0.4">Top 100 neurons (0.02%) have z-scores up to 86 sigma - extreme power-law</text>
+</svg>

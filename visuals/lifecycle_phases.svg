@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="Inter,system-ui,sans-serif">
+<rect width="900" height="320" fill="#0d1117" rx="12"/>
+<text x="450" y="30" fill="#e6edf3" font-size="18" font-weight="700" text-anchor="middle">The Lifecycle of a Thought - Six Cognitive Phases</text>
+<rect x="60.0" y="55" width="120" height="160" rx="10" fill="#f85149" fill-opacity="0.15" stroke="#f85149" stroke-width="2"/>
+<text x="120.0" y="85" fill="#f85149" font-size="18" font-weight="900" text-anchor="middle">P1</text>
+<text x="120.0" y="110" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Sensory</text>
+<text x="120.0" y="128" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Scanner</text>
+<text x="120.0" y="155" fill="#f85149" font-size="12" text-anchor="middle" font-weight="700">L0-3</text>
+<text x="120.0" y="175" fill="#e6edf3" font-size="10" text-anchor="middle" opacity="0.6">Phase 1</text>
+<line x1="182.0" y1="135.0" x2="190.0" y2="135.0" stroke="#e6edf3" stroke-width="2" stroke-opacity="0.5" marker-end="url(#arrowhead)"/>
+<rect x="192.0" y="55" width="120" height="160" rx="10" fill="#d29922" fill-opacity="0.15" stroke="#d29922" stroke-width="2"/>
+<text x="252.0" y="85" fill="#d29922" font-size="18" font-weight="900" text-anchor="middle">P2</text>
+<text x="252.0" y="110" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Universal</text>
+<text x="252.0" y="128" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Translator</text>
+<text x="252.0" y="155" fill="#d29922" font-size="12" text-anchor="middle" font-weight="700">L4-7</text>
+<text x="252.0" y="175" fill="#e6edf3" font-size="10" text-anchor="middle" opacity="0.6">Phase 2</text>
+<line x1="314.0" y1="135.0" x2="322.0" y2="135.0" stroke="#e6edf3" stroke-width="2" stroke-opacity="0.5" marker-end="url(#arrowhead)"/>
+<rect x="324.0" y="55" width="120" height="160" rx="10" fill="#58a6ff" fill-opacity="0.15" stroke="#58a6ff" stroke-width="2"/>
+<text x="384.0" y="85" fill="#58a6ff" font-size="18" font-weight="900" text-anchor="middle">P3</text>
+<text x="384.0" y="110" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Logic</text>
+<text x="384.0" y="128" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Engine</text>
+<text x="384.0" y="155" fill="#58a6ff" font-size="12" text-anchor="middle" font-weight="700">L8-15</text>
+<text x="384.0" y="175" fill="#e6edf3" font-size="10" text-anchor="middle" opacity="0.6">Phase 3</text>
+<line x1="446.0" y1="135.0" x2="454.0" y2="135.0" stroke="#e6edf3" stroke-width="2" stroke-opacity="0.5" marker-end="url(#arrowhead)"/>
+<rect x="456.0" y="55" width="120" height="160" rx="10" fill="#bc8cff" fill-opacity="0.15" stroke="#bc8cff" stroke-width="2"/>
+<text x="516.0" y="85" fill="#bc8cff" font-size="18" font-weight="900" text-anchor="middle">P4</text>
+<text x="516.0" y="110" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Deep</text>
+<text x="516.0" y="128" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Reasoning</text>
+<text x="516.0" y="155" fill="#bc8cff" font-size="12" text-anchor="middle" font-weight="700">L16-25</text>
+<text x="516.0" y="175" fill="#e6edf3" font-size="10" text-anchor="middle" opacity="0.6">Phase 4</text>
+<line x1="578.0" y1="135.0" x2="586.0" y2="135.0" stroke="#e6edf3" stroke-width="2" stroke-opacity="0.5" marker-end="url(#arrowhead)"/>
+<rect x="588.0" y="55" width="120" height="160" rx="10" fill="#3fb950" fill-opacity="0.15" stroke="#3fb950" stroke-width="2"/>
+<text x="648.0" y="85" fill="#3fb950" font-size="18" font-weight="900" text-anchor="middle">P5</text>
+<text x="648.0" y="110" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Knowledge</text>
+<text x="648.0" y="128" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Synthesis</text>
+<text x="648.0" y="155" fill="#3fb950" font-size="12" text-anchor="middle" font-weight="700">L26-35</text>
+<text x="648.0" y="175" fill="#e6edf3" font-size="10" text-anchor="middle" opacity="0.6">Phase 5</text>
+<line x1="710.0" y1="135.0" x2="718.0" y2="135.0" stroke="#e6edf3" stroke-width="2" stroke-opacity="0.5" marker-end="url(#arrowhead)"/>
+<rect x="720.0" y="55" width="120" height="160" rx="10" fill="#39d2c0" fill-opacity="0.15" stroke="#39d2c0" stroke-width="2"/>
+<text x="780.0" y="85" fill="#39d2c0" font-size="18" font-weight="900" text-anchor="middle">P6</text>
+<text x="780.0" y="110" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Output</text>
+<text x="780.0" y="128" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Preparation</text>
+<text x="780.0" y="155" fill="#39d2c0" font-size="12" text-anchor="middle" font-weight="700">L36-41</text>
+<text x="780.0" y="175" fill="#e6edf3" font-size="10" text-anchor="middle" opacity="0.6">Phase 6</text>
+<defs><marker id="arrowhead" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+<polygon points="0 0, 8 3, 0 6" fill="#e6edf3" fill-opacity="0.5"/></marker></defs>
+<text x="120.0" y="240" fill="#e6edf3" font-size="9" text-anchor="middle" opacity="0.5">Cross-Lingual</text>
+<text x="120.0" y="254" fill="#f85149" font-size="14" font-weight="700" text-anchor="middle">1,018</text>
+<text x="252.0" y="240" fill="#e6edf3" font-size="9" text-anchor="middle" opacity="0.5">Cross-Lingual</text>
+<text x="252.0" y="254" fill="#d29922" font-size="14" font-weight="700" text-anchor="middle">1,150</text>
+<text x="384.0" y="240" fill="#e6edf3" font-size="9" text-anchor="middle" opacity="0.5">Cross-Lingual</text>
+<text x="384.0" y="254" fill="#58a6ff" font-size="14" font-weight="700" text-anchor="middle">2,322</text>
+<text x="516.0" y="240" fill="#e6edf3" font-size="9" text-anchor="middle" opacity="0.5">Cross-Lingual</text>
+<text x="516.0" y="254" fill="#bc8cff" font-size="14" font-weight="700" text-anchor="middle">2,865</text>
+<text x="648.0" y="240" fill="#e6edf3" font-size="9" text-anchor="middle" opacity="0.5">Cross-Lingual</text>
+<text x="648.0" y="254" fill="#3fb950" font-size="14" font-weight="700" text-anchor="middle">2,692</text>
+<text x="780.0" y="240" fill="#e6edf3" font-size="9" text-anchor="middle" opacity="0.5">Cross-Lingual</text>
+<text x="780.0" y="254" fill="#39d2c0" font-size="14" font-weight="700" text-anchor="middle">1,618</text>
+</svg>
