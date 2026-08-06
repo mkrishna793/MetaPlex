@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>A Complete Neurocartography of 430,080 Neurons Across 42 Layers and 7 Benchmarks</b><br/>
-  <i>M. Bhanu Krishna &bull; April 2026</i>
+  <i>N.Mohana Krishna &bull; April 2026</i>
 </p>
 
 <p align="center">
